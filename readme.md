@@ -2,6 +2,10 @@
 
 A classic 3x3 sliding puzzle game built with HTML, CSS, and JavaScript. The goal is to arrange the numbered tiles in order from 1-8 with the empty space at the bottom right.
 
+# 🌐 Live Demo
+
+🔗 Play here: [Sliding Puzzle Game](https://vansh-1101.github.io/Sliding_Puzzle_Game/) 
+
 ## Features
 
 - **Classic 3x3 Sliding Puzzle**: Traditional sliding tile puzzle gameplay
